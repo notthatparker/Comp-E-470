@@ -1,0 +1,9 @@
+"Defaul empty",Empty,$0.00,00000
+Dreams in the witchhouse, H.P Lovecraft, $6.00, 1333
+Revival,Stephan King,$3.50,12332
+Strange Eons,Robert Bloch,$5.10,12223
+The Whisperer in Dissonance,Ian Welke,$4.00,1331
+The Call of Cthulhu,H.P Lovecraft, $10.00, 12333
+The Dunwich Horror,H.P Lovecraft, $16.00, 1033
+At Mountains of Madness,H.P Lovecraft, $6.50, 1023
+The Shadow Over Innsmouth,H.P Lovecraft, $9.00, 10321
